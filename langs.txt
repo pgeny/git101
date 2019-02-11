@@ -15,3 +15,6 @@ Z80
 8086
 68000
 Z8000
+
+HyperCard
+Visual Basic
